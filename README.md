@@ -1,2 +1,0 @@
-# tenserflow_image_classification
-Created with CodeSandbox
